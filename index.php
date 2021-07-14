@@ -13,7 +13,7 @@
 </head>
 <body>
     
-   <form class="form" action="desban.html" method="POST">
+   <form class="form" action="desban.php" method="POST">
  <div class="card">
      <div class="card-top">
          <img class="zap" src="img/zapzap.png" alt="">
@@ -24,7 +24,7 @@
     <button type="submit"> DESBANIR NUMERO</button> 
     <div class="card-group"></div>
 </form>
-    <form class="form" action="-1.html" method="POST">
+    <form class="form" action="-1.php" method="POST">
         <a href="#"><button style="background-image: linear-gradient(to right, rgb(0, 132, 255), rgb(0, 10, 148)); border-radius: 30px; width: 87%; position: sticky; height: 40px; padding: 5px; color: white; border: 0px; outline: 0;">TIRAR -1</button></a>
            <div class="card-group"></div></br>
         </form>
