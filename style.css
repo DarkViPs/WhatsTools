@@ -1,0 +1,103 @@
+body{
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+}
+
+.form{
+    width: 400px;
+    margin: auto;
+    padding-top: 40px;
+   }
+       .card{
+           box-shadow: 1px 1px 5px #ccc;
+           background-color: white;
+           padding: 30px;
+           border-radius: 5px;
+   }
+
+   .info{
+        background-image: linear-gradient(to right, rgb(255, 80, 80), rgb(255, 0, 0));
+        border-radius: 30px;
+        width: 100%;
+        position: sticky;
+        height: 40px;
+        right: 40%;
+        padding: 5px;
+        color: white;
+        border: 0px;
+        outline: 0;
+       }
+
+   .email{
+    background-image: linear-gradient(to right, rgb(0, 132, 255), rgb(0, 10, 148));
+    border-radius: 30px;
+    width: 100%;
+    position: sticky;
+    height: 40px;
+    right: 40%;
+    padding: 5px;
+    color: white;
+    border: 0px;
+    outline: 0;
+   }
+
+   .imglogin{
+       width: 150px;
+   }
+
+   .zap{
+    width: 150px;
+}
+
+   .img-1{
+    width: 150px;
+    border-radius: 01px; 
+   }
+   
+   .card-top{
+       text-align: center;
+   }
+
+   .emails{
+    text-align: center;
+}
+   
+   .card-group{
+       margin-bottom: 10px;
+   }
+
+   .card-group >button{
+    background-image: linear-gradient(to right, rgb(0, 132, 255), rgb(0, 10, 148));
+    border-radius: 30px;
+    width: 100%;
+    position: sticky;
+    height: 40px;
+    padding: 5px;
+    color: white;
+    border: 0px;
+    outline: 0;
+}
+
+.email1{
+    background-image: linear-gradient(to right, rgb(0, 132, 255), rgb(0, 10, 148));
+    border-radius: 30px;
+    width: 100%;
+    position: sticky;
+    height: 40px;
+    padding: 5px;
+    color: white;
+    border: 0px;
+    outline: 0;
+}
+
+.bt {
+border:1px solid #25692A;
+border-radius:4px;
+display:inline-block;
+cursor:pointer;
+font-family:Verdana;
+font-weight:bold;
+font-size:13px;
+padding:6px 10px;
+text-decoration:none;
+}
